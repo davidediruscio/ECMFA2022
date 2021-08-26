@@ -1,0 +1,163 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The 18th European Conference on Modelling Foundations and Applications 
+(ECMFA 2022)
+
+June 2022 – Nantes, France (co-located with STAF 2022)
+
+https://davidediruscio.github.io/ECMFA2022/ 
+
+-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ 
+
+=========== 
+About ECMFA
+===========
+
+Model-Based Engineering (MBE) is an approach to the design, analysis, and
+development of software and systems that relies on exploiting high-level models
+and computer-based automation to achieve significant boosts in both productivity
+and quality. 
+
+The European Conference on Modelling Foundations and Applications (ECMFA) is the
+premier European forum dedicated to advancing the state of knowledge and
+fostering the application of all aspects of MBE and related approaches. 
+
+In its 16th edition, ECMFA introduced two major successful innovations that will
+be maintained in the current 18th ECMFA edition to strengthen the scope of the
+community and to foster the quality of its contributions. 
+
+First, the International Conference on Model Transformations (ICMT) joined
+forces with ECMFA, merging both into one single event that unites all aspects
+related to Model-Based Engineering (MBE). 
+
+Second, a two-phase submission and review process was introduced, with two
+possible submission periods (October and February). Papers accepted in the first
+round are published as soon as they are ready, and presented at the conference.
+Authors of papers not accepted in the first phase are invited to re-submit
+improved versions of their work in the second submission phase that also
+welcomes fresh submissions.
+
+Furthermore, since the 15th edition of ECMFA, all accepted papers will be
+published in the JOT journal, which is platinum open-access and indexed by
+Scopus, DBLP, and Scientific Commons, among others. 
+
+
+===========
+Submissions 
+===========
+
+We are soliciting papers presenting original research on all aspects of
+model-based engineering. Two types of submissions are possible: 
+
+- Foundation Papers, dealing with modeling foundations, such as metamodeling,
+model transformations, model validation, verification and testing, model
+engineering methods and tools, and related aspects. 
+
+- Application Papers, dealing with the application of modeling techniques,
+including experience reports on the use of MBE methods and tools, industrial
+case studies, or successful applications of MBE practices in industry or in
+public administration, with significant modeling lessons learned. All
+applications must have been done in real contexts and at least one of the
+authors of the paper must be from the company or administration where the
+application took place. 
+
+Submissions must conform to the JOT LaTeX template and must not exceed 14 pages
+(including figures, references, and appendices). Failure to conform to these
+guidelines may result in disqualification of the paper. No simultaneous
+submission to other publication outlets (either a conference or a journal) is
+allowed; any concurrent submission will be deemed as a serious breach of
+scientific ethics, resulting in the immediate rejection of the paper and
+appropriate action will be taken. 
+
+All submissions will be peer-reviewed by at least three members of the Program
+Committee. 
+
+All papers have to be submitted electronically in PDF format through Easychair 
+(https://easychair.org/conferences/?conf=ecmfa2022). 
+
+Topics of interest Topics of interest include, but are not limited to: 
+
+- Foundations of MBE.
+- Application of MBE methods, tools, and techniques to specific domains, e.g.,
+automotive, aerospace, cyber-physical systems, robotics, Artificial Intelligence
+or IoT. 
+- Successful use of MBE in connection with other disciplines and approaches,
+such as Artificial Intelligence, Blockchain, DevOps, or Open Source, Safety
+Assurance. 
+- Educational aspects of MBE. 
+- Tools and initiatives for the successful adoption of MBE in industry. 
+
+
+===========================
+Review criteria and process
+=========================== 
+
+All papers will be assessed by the program committee in terms of their novelty,
+significance, technical quality, rigor, and suitability for the conference.
+
+Contributions can be submitted to any of the two submission periods. Papers
+submitted to the first round of review can be recommended by the Program
+Committee to be accepted-as-is, accepted with minor revisions, undergo major
+revisions (and resubmit in the second round) or rejected. Recommendations for
+papers submitted in the second round are for accept, minor revisions, or reject.
+
+Papers accepted at any of the two rounds with minor revisions will be given a
+specified period of time to perform the revisions and re-submit. The same
+reviewers will assess how well the revision requests have been addressed by the
+authors, and whether the final paper maintains or improves the level of
+contribution of the original submission. Revisions that significantly lessen the
+contribution of the work or that fail to adequately address the reviewers'
+original concerns will result in the paper's rejection. Papers not accepted in
+the first round can be resubmitted to the second one, indicating how the authors
+have improved the paper to address the reviewers' criticisms. Papers not
+accepted in the second round but with a sufficient level of quality may be
+encouraged to be re-submitted next year, or alternatively as regular JOT
+articles, hence continuing their review process through the normal journal
+channels. 
+
+Papers will be published in the JOT journal as soon as they are accepted and one
+of their authors registers at the conference. 
+
+
+=========
+Artifacts
+=========
+
+Artifacts are recommended, but not required, for the initial submission.
+Depending on the papers, reviewers may take the existence of artifacts as a
+positive signal about the work. Also depending on the papers, artifacts may be
+required as a condition for publication. 
+
+
+===========
+Publication 
+===========
+
+All accepted papers will be published as platinum open-access journal
+publication in JOT. At least one author for each accepted paper must register
+before the early registration deadline and present the paper during the
+conference. Failure to do so will result in the paper being withdrawn from the
+proceedings. 
+
+
+===============
+Important Dates 
+===============
+
+* Round 1 
+  - Submission: Oct 10, 2021 
+  - Notification: Dec 10, 2021
+
+* Round 2 
+  - Submission: Feb 20, 2022 
+  - Notification: Apr 22, 2022
+
+* Conference:June, 2022
+
+
+====================
+ECMFA 2022 Co-Chairs
+==================== 
+Sahar Kokaly, General Motors/McMaster University (Canada)
+Davide Di Ruscio, University of L’Aquila (Italy)
