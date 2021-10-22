@@ -3,7 +3,7 @@
 The 18th European Conference on Modelling Foundations and Applications 
 (ECMFA 2022)
 
-June 2022 – Nantes, France (co-located with STAF 2022)
+co-located with STAF 2022, 4-8 July 2022 – Nantes, France
 
 https://davidediruscio.github.io/ECMFA2022/ 
 
@@ -153,7 +153,7 @@ Important Dates
   - Submission: Feb 20, 2022 
   - Notification: Apr 22, 2022
 
-* Conference:June, 2022
+* Conference: During STAF 2022, which will be held on 4-8 July 2022
 
 
 ====================
